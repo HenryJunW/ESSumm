@@ -3,11 +3,12 @@
 ### Datasets for ESSumm
 
 Two public corpora datasets: 
+
 AMI Corpus: https://groups.inf.ed.ac.uk/ami/corpus/
 
 ICSI Corpus: https://groups.inf.ed.ac.uk/ami/icsi/
 
-Download the datasets following the instruction from the above websites to [data] folder (https://github.com/HenryJunW/ESSumm/tree/main/data). The ground truth summary for both datasets are located within [ESSumm/data/meeting](https://github.com/HenryJunW/ESSumm/tree/main/data/meeting/).
+Download the datasets following the instruction from the above websites to folder [data](https://github.com/HenryJunW/ESSumm/tree/main/data). The ground truth summary for both datasets are located within [ESSumm/data/meeting](https://github.com/HenryJunW/ESSumm/tree/main/data/meeting/).
 
 ### Segments Generation & Key-segments Extraction
 
